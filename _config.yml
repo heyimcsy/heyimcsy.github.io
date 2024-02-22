@@ -23,7 +23,7 @@ email: cinnamon1995@naver.com
 description: >- # this means to ignore newlines until "baseurl:"
   just study
 # baseurl: "/" # the subpath of your site, e.g. /blog
-# url: "http://heyimcsy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# url: "https://heyimcsy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: ejjoo
 highlighter: rouge
 svg:
