@@ -1,7 +1,7 @@
 ---
 layout: post
 title: first post
-date: 2024-02-23
+date: 2024-02-20
 category: diary
 ---
 # 처음 만들어보는 블로그!
